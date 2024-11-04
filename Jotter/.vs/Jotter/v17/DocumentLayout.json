@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AD0B0C-E507-48E9-B269-1F47A7263D3A}|Jotter\\Jotter.csproj|d:\\c-sharp\\aspdotnettut\\jotter\\jotter\\jotter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AD0B0C-E507-48E9-B269-1F47A7263D3A}|Jotter\\Jotter.csproj|solutionrelative:jotter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AD0B0C-E507-48E9-B269-1F47A7263D3A}|Jotter\\Jotter.csproj|d:\\c-sharp\\aspdotnettut\\jotter\\jotter\\jotter\\models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AD0B0C-E507-48E9-B269-1F47A7263D3A}|Jotter\\Jotter.csproj|solutionrelative:jotter\\models\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Program.cs",
+              "RelativeDocumentMoniker": "Jotter\\Program.cs",
+              "ToolTip": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Program.cs",
+              "RelativeToolTip": "Jotter\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:59:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Models\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "Jotter\\Models\\Entities\\Note.cs",
+              "ToolTip": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Models\\Entities\\Note.cs",
+              "RelativeToolTip": "Jotter\\Models\\Entities\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:26:02.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
