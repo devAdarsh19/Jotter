@@ -26,8 +26,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Program.cs",
               "RelativeDocumentMoniker": "Jotter\\Program.cs",
-              "ToolTip": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Program.cs*",
-              "RelativeToolTip": "Jotter\\Program.cs*",
+              "ToolTip": "D:\\C-Sharp\\aspDotNetTut\\Jotter\\Jotter\\Jotter\\Program.cs",
+              "RelativeToolTip": "Jotter\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T13:59:27.544Z",
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Jotter\\Models\\Entities\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:26:02.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:26:02.069Z"
             }
           ]
         }
